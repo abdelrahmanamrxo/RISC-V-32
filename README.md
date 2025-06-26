@@ -6,6 +6,7 @@ The *program.txt* contains the machine code for a Fibonacci sequence generation 
 The following simulation snapshot shows the code in motion:
 ![image of the code being simulated in questasim](https://i.ibb.co/MyKXy5t7/image.png)
 The other *.txt* files are used in the testbenches to test memory functionality, make sure they are placed in the project folder for them to be read properly.
+
 Programs used for this project:
 
  - VS Code for editing and writing code.
